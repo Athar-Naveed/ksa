@@ -27,3 +27,6 @@ uv pip install -r requirements.txt
 ```python
 py main.py
 ```
+
+### Downloading the exe file
+You can download the exe file [here](https://drive.google.com/file/d/1xTZmSPqMxQSAsG3ZMSD2haz0ZxU58xtz/view)
